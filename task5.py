@@ -1,4 +1,9 @@
-
+#question 1
+name = input("Please enter your name: ")
+age = input("Please enter your age: ")
+street = input("Please enter your street: ")
+city = input("Please enter your city: ")
+country = input("Please enter your country: ")
 
 
 #question 2
